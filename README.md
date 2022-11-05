@@ -1,2 +1,2 @@
 # bootcamp_project
-Datasci with Data Rockie
+Data Science bootcamp with Data Rockie
